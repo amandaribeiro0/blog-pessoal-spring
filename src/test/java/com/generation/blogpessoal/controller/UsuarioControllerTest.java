@@ -66,7 +66,7 @@ public class UsuarioControllerTest {
 	}
 
 	@Test
-	@DisplayName("😎 Deve Atualizar os dados do Usuário")
+	@DisplayName("🙌 Deve Atualizar os dados do Usuário")
 	public void deveAtualizarUmUsuario() {
 
 		Optional<Usuario> usuarioCadastrado = usuarioService
